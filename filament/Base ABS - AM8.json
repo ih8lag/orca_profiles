@@ -1,0 +1,78 @@
+{
+	"compatible_printers": [
+		"MyKlipper 0.4 nozzle"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"eng_plate_temp": [
+		"95"
+	],
+	"eng_plate_temp_initial_layer": [
+		"95"
+	],
+	"fan_cooling_layer_time": [
+		"1"
+	],
+	"fan_max_speed": [
+		"10"
+	],
+	"fan_min_speed": [
+		"0"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.975"
+	],
+	"filament_max_volumetric_speed": [
+		"8"
+	],
+	"filament_retraction_length": [
+		"0.9"
+	],
+	"filament_settings_id": [
+		"Base ABS - AM8"
+	],
+	"filament_z_hop": [
+		"0.4"
+	],
+	"filament_z_hop_types": [
+		"Normal Lift"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"95"
+	],
+	"hot_plate_temp_initial_layer": [
+		"95"
+	],
+	"inherits": "Generic ABS @System",
+	"name": "Base ABS - AM8",
+	"nozzle_temperature": [
+		"250"
+	],
+	"nozzle_temperature_initial_layer": [
+		"250"
+	],
+	"pressure_advance": [
+		"0.026"
+	],
+	"reduce_fan_stop_start_freq": [
+		"0"
+	],
+	"slow_down_for_layer_cooling": [
+		"0"
+	],
+	"slow_down_layer_time": [
+		"1"
+	],
+	"textured_plate_temp": [
+		"95"
+	],
+	"textured_plate_temp_initial_layer": [
+		"95"
+	],
+	"version": "2.4.0.3"
+}

@@ -1,0 +1,46 @@
+{
+    "compatible_printers": [
+        "MyMarlin 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "75"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "200"
+    ],
+    "filament_retraction_length": [
+        "0.5"
+    ],
+    "filament_settings_id": [
+        "Overature Army Green PETG"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @System",
+    "is_custom_defined": "0",
+    "name": "Overature Army Green PETG",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.078"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "slow_down_min_speed": [
+        "0"
+    ],
+    "version": "2.3.1.10"
+}

@@ -1,0 +1,43 @@
+{
+	"bottom_shell_layers": "5",
+	"bridge_line_width": "0.4",
+	"brim_type": "brim_ears",
+	"from": "User",
+	"gap_infill_speed": "60",
+	"hole_to_polyhole_twisted": "0",
+	"inherits": "0.20mm Standard @MyKlipper",
+	"initial_layer_infill_speed": "15",
+	"initial_layer_line_width": "0.4",
+	"initial_layer_speed": "15",
+	"inner_wall_line_width": "0.4",
+	"inner_wall_speed": "60",
+	"internal_solid_infill_line_width": "0.4",
+	"internal_solid_infill_speed": "60",
+	"line_width": "0.4",
+	"name": "0.20mm Standard AM8 - ABS Voron Part",
+	"outer_wall_line_width": "0.4",
+	"outer_wall_speed": "60",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Standard AM8 - ABS Voron Part",
+	"skirt_distance": "1",
+	"skirt_height": "1",
+	"skirt_loops": "1",
+	"slow_down_layers": "3",
+	"sparse_infill_density": "40%",
+	"sparse_infill_line_width": "0.4",
+	"sparse_infill_pattern": "grid",
+	"sparse_infill_speed": "60",
+	"support_interface_speed": "60",
+	"support_line_width": "0.4",
+	"support_speed": "60",
+	"top_surface_line_width": "0.4",
+	"top_surface_speed": "60",
+	"travel_speed": "250",
+	"version": "2.4.0.1",
+	"wall_loops": "4"
+}

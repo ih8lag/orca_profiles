@@ -1,0 +1,37 @@
+{
+    "compatible_printers": [
+        "MyMarlin 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "1.03"
+    ],
+    "filament_settings_id": [
+        "Elegoo Grey PLA+"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "Elegoo Grey PLA+",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "version": "2.3.0.3"
+}

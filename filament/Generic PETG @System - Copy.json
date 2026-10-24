@@ -1,0 +1,18 @@
+{
+	"compatible_printers": [
+		"MyKlipper 0.4 nozzle"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"Generic PETG @System - Copy"
+	],
+	"from": "User",
+	"inherits": "Generic PETG @System",
+	"name": "Generic PETG @System - Copy",
+	"slow_down_layer_time": [
+		"1"
+	],
+	"version": "2.4.0.3"
+}

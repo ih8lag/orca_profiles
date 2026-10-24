@@ -1,0 +1,46 @@
+{
+    "compatible_printers": [
+        "MyMarlin 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retraction_length": [
+        "0.3"
+    ],
+    "filament_retraction_speed": [
+        "100"
+    ],
+    "filament_settings_id": [
+        "Eurekateck Black"
+    ],
+    "filament_z_hop": [
+        "0.8"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA High Speed @System",
+    "is_custom_defined": "0",
+    "name": "Eurekateck Black",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.078"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "2.3.1.10"
+}

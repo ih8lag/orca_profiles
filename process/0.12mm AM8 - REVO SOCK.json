@@ -1,0 +1,21 @@
+{
+	"from": "User",
+	"inherits": "0.20mm Standard @MyKlipper",
+	"initial_layer_print_height": "0.12",
+	"ironing_type": "top",
+	"layer_height": "0.12",
+	"name": "0.12mm AM8 - REVO SOCK",
+	"outer_wall_speed": "150",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.12mm AM8 - REVO SOCK",
+	"sparse_infill_density": "25%",
+	"sparse_infill_pattern": "grid",
+	"travel_speed": "250",
+	"version": "2.4.0.1",
+	"wall_loops": "4"
+}
