@@ -43,10 +43,10 @@
 	],
 	"print_host": "ares-am8.local",
 	"printable_area": [
-		"10x10",
-		"210x10",
-		"210x210",
-		"10x210"
+		"0x0",
+		"220x0",
+		"220x220",
+		"0x220"
 	],
 	"printable_height": "240",
 	"printer_agent": "moonraker",
