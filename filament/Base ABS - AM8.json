@@ -63,10 +63,10 @@
 		"0"
 	],
 	"slow_down_for_layer_cooling": [
-		"0"
+		"1"
 	],
 	"slow_down_layer_time": [
-		"1"
+		"8"
 	],
 	"textured_plate_temp": [
 		"95"

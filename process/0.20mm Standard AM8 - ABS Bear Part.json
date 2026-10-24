@@ -3,6 +3,7 @@
 	"bridge_line_width": "0.4",
 	"brim_type": "brim_ears",
 	"brim_width": "10",
+	"elefant_foot_compensation": "0.1",
 	"from": "User",
 	"gap_infill_speed": "60",
 	"hole_to_polyhole_twisted": "0",
@@ -38,7 +39,7 @@
 	"support_speed": "60",
 	"top_surface_line_width": "0.4",
 	"top_surface_speed": "60",
-	"travel_speed": "250",
+	"travel_speed": "200",
 	"version": "2.4.0.1",
 	"wall_loops": "4"
 }

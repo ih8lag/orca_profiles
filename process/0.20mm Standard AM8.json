@@ -10,7 +10,7 @@
 		"Direct Drive Standard"
 	],
 	"print_settings_id": "0.20mm Standard AM8",
-	"travel_speed": "250",
+	"travel_speed": "200",
 	"version": "2.4.0.1",
 	"wall_sequence": "inner-outer-inner wall"
 }

@@ -15,7 +15,7 @@
 	"print_settings_id": "0.12mm AM8 - REVO SOCK",
 	"sparse_infill_density": "25%",
 	"sparse_infill_pattern": "grid",
-	"travel_speed": "250",
+	"travel_speed": "200",
 	"version": "2.4.0.1",
 	"wall_loops": "4"
 }
