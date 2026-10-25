@@ -59,5 +59,11 @@
 	"printer_settings_id": "AM8 Klipper",
 	"support_chamber_temp_control": "0",
 	"support_multi_bed_types": "1",
-	"version": "2.3.2.60"
+	"version": "2.3.2.60",
+	"z_hop": [
+		"0.4"
+	],
+	"z_hop_types": [
+		"Normal Lift"
+	]
 }
