@@ -1,0 +1,31 @@
+{
+	"default_acceleration": "1500",
+	"from": "User",
+	"gap_infill_speed": "30",
+	"inherits": "0.20mm Standard @MyKlipper",
+	"initial_layer_print_height": "0.12",
+	"inner_wall_acceleration": "1200",
+	"inner_wall_speed": "50",
+	"internal_solid_infill_speed": "50",
+	"ironing_type": "top",
+	"layer_height": "0.12",
+	"name": "0.12mm Quality AM8 - REVO SOCK",
+	"outer_wall_acceleration": "800",
+	"outer_wall_speed": "35",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.12mm Quality AM8 - REVO SOCK",
+	"sparse_infill_density": "25%",
+	"sparse_infill_pattern": "grid",
+	"top_shell_layers": "5",
+	"top_surface_acceleration": "800",
+	"top_surface_speed": "35",
+	"travel_speed": "150",
+	"version": "2.4.0.1",
+	"wall_loops": "4",
+	"wall_sequence": "inner-outer-inner wall"
+}
