@@ -2,8 +2,17 @@
 	"compatible_printers": [
 		"MyKlipper 0.4 nozzle"
 	],
+	"fan_max_speed": [
+		"40"
+	],
+	"fan_min_speed": [
+		"30"
+	],
 	"filament_extruder_variant": [
 		"Direct Drive Standard"
+	],
+	"filament_max_volumetric_speed": [
+		"6"
 	],
 	"filament_settings_id": [
 		"Base PETG - AM8"
@@ -16,6 +25,15 @@
 	],
 	"nozzle_temperature_initial_layer": [
 		"250"
+	],
+	"overhang_fan_speed": [
+		"60"
+	],
+	"slow_down_for_layer_cooling": [
+		"1"
+	],
+	"slow_down_layer_time": [
+		"8"
 	],
 	"version": "2.4.0.3"
 }
