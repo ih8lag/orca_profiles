@@ -1,0 +1,20 @@
+{
+	"compatible_printers": [
+		"MyKlipper 0.4 nozzle"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard",
+		"Direct Drive High Flow",
+		"Direct Drive Extra High Flow",
+		"Bowden Standard",
+		"Bowden High Flow",
+		"Bowden Extra High Flow"
+	],
+	"filament_settings_id": [
+		"Base TPU"
+	],
+	"from": "User",
+	"inherits": "Generic TPU @System",
+	"name": "Base TPU",
+	"version": "2.4.0.26"
+}
