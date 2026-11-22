@@ -2,19 +2,65 @@
 	"compatible_printers": [
 		"MyKlipper 0.4 nozzle"
 	],
+	"fan_max_speed": [
+		"60"
+	],
+	"fan_min_speed": [
+		"40"
+	],
+	"filament_deretraction_speed": [
+		"20"
+	],
 	"filament_extruder_variant": [
-		"Direct Drive Standard",
-		"Direct Drive High Flow",
-		"Direct Drive Extra High Flow",
-		"Bowden Standard",
-		"Bowden High Flow",
-		"Bowden Extra High Flow"
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"1"
+	],
+	"filament_max_volumetric_speed": [
+		"3"
+	],
+	"filament_retraction_length": [
+		"0.6"
+	],
+	"filament_retraction_speed": [
+		"25"
 	],
 	"filament_settings_id": [
 		"Base TPU"
 	],
+	"filament_z_hop": [
+		"0"
+	],
 	"from": "User",
+	"hot_plate_temp": [
+		"45"
+	],
+	"hot_plate_temp_initial_layer": [
+		"45"
+	],
 	"inherits": "Generic TPU @System",
 	"name": "Base TPU",
+	"nozzle_temperature": [
+		"225"
+	],
+	"nozzle_temperature_initial_layer": [
+		"230"
+	],
+	"overhang_fan_speed": [
+		"60"
+	],
+	"slow_down_for_layer_cooling": [
+		"1"
+	],
+	"slow_down_layer_time": [
+		"8"
+	],
+	"textured_plate_temp": [
+		"45"
+	],
+	"textured_plate_temp_initial_layer": [
+		"45"
+	],
 	"version": "2.4.0.26"
 }
