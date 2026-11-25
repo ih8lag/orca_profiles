@@ -18,10 +18,13 @@
 		"8"
 	],
 	"filament_retraction_length": [
-		"0.2"
+		"0.6"
 	],
 	"filament_settings_id": [
 		"Base PLA - AM8"
+	],
+	"filament_wipe": [
+		"1"
 	],
 	"from": "User",
 	"inherits": "Generic PLA @System",
