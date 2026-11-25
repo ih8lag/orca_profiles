@@ -8,6 +8,9 @@
 	"fan_min_speed": [
 		"30"
 	],
+	"filament_cooling_moves": [
+		"0"
+	],
 	"filament_extruder_variant": [
 		"Direct Drive Standard"
 	],

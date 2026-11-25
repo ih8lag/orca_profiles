@@ -1,0 +1,39 @@
+{
+	"compatible_printers": [
+		"AM8 Klipper - MMX"
+	],
+	"default_acceleration": "1500",
+	"enable_prime_tower": "1",
+	"from": "User",
+	"gap_infill_speed": "30",
+	"inherits": "0.20mm Standard @MyKlipper",
+	"inner_wall_acceleration": "1200",
+	"inner_wall_speed": "50",
+	"internal_solid_infill_speed": "50",
+	"name": "0.20mm Quality AM8 - Multicolor",
+	"outer_wall_acceleration": "800",
+	"outer_wall_speed": "35",
+	"prime_tower_brim_width": "3",
+	"prime_tower_width": "35",
+	"prime_volume": "45",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Quality AM8 - Multicolor",
+	"top_shell_layers": "5",
+	"top_surface_acceleration": "800",
+	"top_surface_speed": "35",
+	"travel_speed": "150",
+	"version": "2.4.0.1",
+	"wall_sequence": "inner-outer-inner wall",
+	"wipe_tower_max_purge_speed": "40",
+	"wipe_tower_x": [
+		"165"
+	],
+	"wipe_tower_y": [
+		"160"
+	]
+}

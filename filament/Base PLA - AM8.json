@@ -5,6 +5,9 @@
 	"enable_pressure_advance": [
 		"1"
 	],
+	"filament_cooling_moves": [
+		"0"
+	],
 	"filament_extruder_variant": [
 		"Direct Drive Standard"
 	],
