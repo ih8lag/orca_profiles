@@ -1,0 +1,54 @@
+{
+	"brim_type": "no_brim",
+	"compatible_printers": [
+		"AM8 Klipper - MMX"
+	],
+	"default_acceleration": "1500",
+	"elefant_foot_compensation": "0.1",
+	"enable_prime_tower": "1",
+	"from": "User",
+	"gap_infill_speed": "30",
+	"inherits": "0.20mm Standard @MyKlipper",
+	"initial_layer_infill_speed": "35",
+	"initial_layer_line_width": "0.42",
+	"initial_layer_print_height": "0.2",
+	"initial_layer_speed": "35",
+	"inner_wall_acceleration": "1200",
+	"inner_wall_speed": "50",
+	"internal_solid_infill_speed": "50",
+	"ironing_flow": "12%",
+	"ironing_speed": "30",
+	"ironing_type": "top",
+	"layer_height": "0.2",
+	"name": "0.20mm Quality AM8 - Keychain",
+	"outer_wall_acceleration": "800",
+	"outer_wall_speed": "35",
+	"prime_tower_brim_width": "3",
+	"prime_tower_width": "35",
+	"prime_volume": "45",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Quality AM8 - Keychain",
+	"reduce_crossing_wall": "1",
+	"sparse_infill_density": "20%",
+	"top_shell_layers": "6",
+	"top_surface_acceleration": "800",
+	"top_surface_pattern": "monotonicline",
+	"top_surface_speed": "35",
+	"travel_speed": "150",
+	"version": "2.4.0.1",
+	"wall_generator": "arachne",
+	"wall_loops": "3",
+	"wall_sequence": "inner-outer-inner wall",
+	"wipe_tower_max_purge_speed": "40",
+	"wipe_tower_x": [
+		"165"
+	],
+	"wipe_tower_y": [
+		"160"
+	]
+}
